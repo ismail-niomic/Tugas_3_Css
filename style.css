@@ -1,0 +1,22 @@
+.p_pertama {
+  background-color: #d95e25;
+}
+.p_kedua {
+  background-color: blue;
+  color: white;
+}
+.p_ketiga {
+  border: 1px solid #bdbbbb;
+  background-color: white;
+  color: black;
+  font-size: 15px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p_keempat {
+  border-top: 1px solid black;
+  font-weight: bolder;
+  font-size: 20px;
+}
+p {
+  background-color: grey;
+}
